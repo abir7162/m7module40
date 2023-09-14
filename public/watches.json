@@ -1,0 +1,18 @@
+[
+    {
+      "id": 101,
+      "name": "Toyota Camry",
+      "price": 27999.99
+    },
+    {
+      "id": 102,
+      "name": "Ford Mustang",
+      "price": 34999.99
+    },
+    {
+      "id": 103,
+      "name": "Honda Civic",
+      "price": 22999.99
+    }
+  ]
+  

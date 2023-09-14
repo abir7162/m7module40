@@ -1,7 +1,6 @@
-.countries{
+.botol-container{
+
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-}
-.Visited{
-    background-color:chartreuse;
+    gap: 15px;
 }
